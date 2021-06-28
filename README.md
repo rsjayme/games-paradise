@@ -33,6 +33,7 @@ Para rodar o código siga o passo a passo:
 
   ```bash
   npm run start
+
   # or
 
   yarn start
